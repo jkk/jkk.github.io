@@ -1,2 +1,2 @@
 # jkk.github.io
-My GitHub Page
+http://jkk.github.com

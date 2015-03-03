@@ -1,0 +1,13 @@
+# Site settings
+title: Justin Kramer
+email: contact@jkkramer.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tech blog of topics that interest me - frontend development, functional programming, user experience, building cool things
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jkk.github.io" # the base hostname & protocol for your site
+twitter_username: jkkramer
+github_username:  jkk
+homepage_url: "http://jkkramer.com"
+
+# Build settings
+markdown: kramdown
