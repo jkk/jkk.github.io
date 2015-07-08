@@ -12,6 +12,8 @@ A few weeks ago, I heard a developer say something that surprised me. He was sco
 
 Guess what? Some of the smartest and highest-paid software engineers in the world are applying their formidable brainpower to frontend problems, leveraging JavaScript in particular -- directly or as a platform -- to solve those problems. Facebook, Netflix, Google -- they're all working very hard to push the state of the art forward in this area.
 
+The problems they're trying to solve are hard. They deal with heavy computer science-y topics: state, concurrency, asynchrony, caching. User interfaces aren't easy!
+
 ### A new era
 
 The days of client-side scripting as a decorative after-thought are over. jQuery spaghetti is not how modern solutions are built.
