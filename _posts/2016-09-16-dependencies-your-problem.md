@@ -28,7 +28,7 @@ Here are some questions to ask before adding a library to your dependencies:
 
 * Is the library battle tested?
 * Is its API stable?
-* Can you read and understand its code?
+* How does its code smell?
 * Is it backed by a community of developers that help maintain it?
 * Is it backed by stable organization? Is that organization known for responsible OSS stewardship?
 * Is it small enough that none of the other questions matter?
@@ -45,7 +45,7 @@ I am not Nostradamus. I just did my homework. I remain hopeful a routing solutio
 
 ### That Said...
 
-Before I joined the mosh pit of modern JavaScript, I spent a few years in the Clojure community. The Clojure community has a history of extreme conservatism when it comes to API changes. Sometimes it was frustrating when improvements to the language and core libraries came slowly, but having a stable base on which too build was invaluable.
+Before I joined the mosh pit of modern JavaScript, I spent a few years in the Clojure community. The Clojure community has a history of extreme conservatism when it comes to API changes. Sometimes it was frustrating when improvements to the language and core libraries came slowly, but having a stable base on which to build was invaluable.
 
 The JavaScript community, in contrast, has a tendency to release half-baked libraries, promote them, then rewrite or drop them when their shortcomings become apparent. This is unfortunate. I wish more developers would battle test libraries before promoting them (this applies both to library creators, and early adopters).
 
