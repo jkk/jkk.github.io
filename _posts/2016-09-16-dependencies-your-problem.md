@@ -54,3 +54,6 @@ One of the reasons I was willing to give React a try early on, besides the fact 
 Individuals and small teams in the JavaScript community would do well to follow Facebook's example.
 
 To be clear: developers that release libraries and then iterate the API in public do not deserve personal scorn for doing so. Let's be decent humans. Strong opinions can be held and expressed without hostility.
+
+
+[Follow me on Twitter](https://twitter.com/jkkramer) or [discuss this on Hacker News](https://news.ycombinator.com/item?id=12517962)
